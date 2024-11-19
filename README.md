@@ -1,4 +1,4 @@
-Title: Design and Implementation of a Serial IP Core and Linux Device Drivers
+#Title: Design and Implementation of a Serial IP Core and Linux Device Drivers
 
 This project focuses on developing a programmable Serial IP module integrated with an AXI4-lite interface. The module provides a UART-based communication system capable of supporting configurable baud rates (75-250,000), data word sizes (5-8 bits), optional parity, and one or two stop bits.
 
