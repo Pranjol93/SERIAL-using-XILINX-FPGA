@@ -9,3 +9,8 @@ Software: Linux kernel module with virtual memory (/dev/mem) and sysfs-based con
 Interrupt handling for efficient operation.
 Verification using simulation tools and hardware testing in a supervised lab environment.
 This project showcases skills in hardware-software co-design, Verilog programming, and Linux kernel development.
+
+
+gpio_system_top.sv is the top module of the UART that conects to blackboard
+serial_v1_0.v is the wrapper
+serial_v1_0_AXI.v is the systme verilog implementation of the UART
